@@ -1,0 +1,88 @@
+body{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+#button,#text{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+#button{
+    background-color: gray;
+    border-radius: 10%;
+
+
+}
+#text{
+    width: 50%;
+
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#list_item{
+    border: solid black 1px;
+    list-style-type: none;
+    padding-left: 5px;
+    width: 50%;
+    background-color: cadetblue;
+    margin-bottom: 10px;
+
+
+    
+}
+ul{
+    font-size: 20px;
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+#rem_button{
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 60px;
+    margin-right: 10px;
+    background-color: white;
+    border-radius: 10%;
+    border: solid white 1px;
+    color:red;
+
+
+
+}
+
+#Edit_button{
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 60px;
+    margin-right: 10px;
+    background-color: white;
+    border-radius: 10%;
+    border: solid white 1px;
+
+
+
+
+
+}
+#done_button{
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 60px;
+    margin-right: 10px;
+    background-color: white;
+    border-radius: 10%;
+    border: solid white 1px;
+
+
+}
